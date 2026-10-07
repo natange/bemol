@@ -1,0 +1,20 @@
+export const Key = {
+    C: "C",
+    G: "G",
+    D: "D",
+    A: "A",
+    E: "E",
+    B: "B",
+    FSharp: "F#",
+    CSharp: "C#",
+    GSharp: "G#",
+    DSharp: "D#",
+    ASharp: "A#",
+    F: "F",
+    BFlat: "Bb",
+    EFlat: "Eb",
+    AFlat: "Ab",
+    DFlat: "Db",
+    GFlat: "Gb",
+    CFlat: "Cb"
+}
